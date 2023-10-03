@@ -34,11 +34,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
-<table><tr>
 
 </td><td valign="top" width="50%">
 
-
+</td></tr></table>  
 
 
 <br/>  
