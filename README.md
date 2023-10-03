@@ -39,7 +39,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 
-</td></tr></table>  
 
 <br/>  
 
