@@ -1,6 +1,50 @@
-## Hey 👋, I'm Agustin!  
+<div align="center">
+<img src="https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2022/01/Programa-con-R-scaled.jpg" align="center" style="width: 100%" />
+</div>  
   
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Madimi+One&size=35&pause=1000&color=FF747B&random=false&width=435&height=80&lines=Full+Stack+Developer;Frontend+Developer;React+Developer" alt="Typing SVG" /></a>
 
+## <div align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> soy Agustín, un apasionado desarrollador Frontend 🧑‍💻 aprendiendo esta profesión desde 2023 🚀</div>
+
+- 🔭 Actualmente estoy buscando trabajo
+
+- 🌱 Actualmente estoy aprendiendo Java y Vue.js
+
+- 👯 Busco colaborar en alguna aplicación deportiva.
+
+- 📫 Cómo contactarme: agusscaramello@gmail.com
+
+- 📄 Conoce mis experiencias: <a href="https://drive.google.com/file/d/1VFtiRa7_G2YuMIaV38WCPjlLUkIZyoaR/view?usp=sharing" target="_blank">CV</a>
+
+- ❓ Pregúntame sobre cualquier cosa relacionada con el stack PERN y tecnologías relacionadas.
+
+- ⚡ Dato curioso: amo jugar al rugby!
+
+<hr>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AgustinScaramello&theme=onedark" alt="AgustinScaramello" /></a> </p>
+
+<hr>
+
+## Mis habilidades
+
+### Frontend
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,bootstrap)](https://skillicons.dev)
+
+### Backend
+
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,sequelize,postgresql)](https://skillicons.dev)
+
+### DevOps
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,)](https://skillicons.dev)
+
+<hr>
+
+## Contactame
+
+<div align="left">
 <a href="https://github.com/AgustinScaramello" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -10,78 +54,15 @@
 <a href="https://instagram.com/agustinscaramello" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  
+</div>
 
+<hr>
 
+## Mis estadisticas de Github
 
-### Glad to see you here!  
-I’m full-stack developer.
-
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭I am currently looking for a job  
-  
-
-- 🌱 I’m currently learning in Henry academy  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-
-
-</td></tr></table>  
-
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AgustinScaramello&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinScaramello&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AgustinScaramello&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinScaramello&layout=compact&theme=dark" alt="top-langs" />
+</p>
