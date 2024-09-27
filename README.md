@@ -6,8 +6,6 @@
 
 ## <div align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> soy Agustín, un apasionado desarrollador Frontend 🧑‍💻 aprendiendo esta profesión desde 2023 🚀</div>
 
-- 🔭 Actualmente estoy buscando trabajo
-
 - 🌱 Actualmente estoy aprendiendo Java y Vue.js
 
 - 👯 Busco colaborar en alguna aplicación deportiva.
