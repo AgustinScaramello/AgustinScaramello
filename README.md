@@ -1,24 +1,23 @@
 <div align="center">
-<img src="https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2022/01/Programa-con-R-scaled.jpg" align="center" style="width: 100%" />
-</div>  
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Madimi+One&size=35&pause=1000&color=FF747B&random=false&width=435&height=80&lines=Full+Stack+Developer;Frontend+Developer;React+Developer" alt="Typing SVG" /></a>
+<img src="./portada.jpg" align="center" style="width: 100%" />
+</div>
 
-## <div align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> soy Agustín, un apasionado desarrollador Frontend 🧑‍💻 aprendiendo esta profesión desde 2023 🚀</div>
+## <div align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> soy Agustín, un apasionado desarrollador Frontend 🧑‍💻 sumando experiencia desde 2023 🚀</div>
 
-- 🌱 Actualmente estoy aprendiendo Java y Vue.js
+- 💼 Actualmente trabajando en Lightdata (Argentina)
 
-- 👯 Busco colaborar en alguna aplicación deportiva.
+- 👯 Busco colaborar en pequeñas aplicaciones freelance.
 
 - 📫 Cómo contactarme: agusscaramello@gmail.com
 
-- 📄 Conoce mis experiencias: <a href="https://drive.google.com/file/d/1VFtiRa7_G2YuMIaV38WCPjlLUkIZyoaR/view?usp=sharing" target="_blank">CV</a>
+- 📄 Conoce mis experiencias: <a href="https://drive.google.com/file/d/1TDhLRpN2Y0SlXm37RLtWJcY-59SfAZMW/view?usp=sharing" target="_blank">CV</a>
 
-- ❓ Pregúntame sobre cualquier cosa relacionada con el stack PERN y tecnologías relacionadas.
+- 🚀 Siempre curioso por explorar nuevas formas de construir el frontend, desde lo clásico hasta lo más actual.
 
-- ⚡ Dato curioso: amo jugar al rugby!
+- ⚡ Interesado en liderar/coordinar proyectos
 
 <hr>
+<br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AgustinScaramello&theme=onedark" alt="AgustinScaramello" /></a> </p>
 
@@ -28,15 +27,15 @@
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,react,redux,bootstrap,tailwind,ts)](https://skillicons.dev)
 
 ### Backend
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,sequelize,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,sequelize,postgresql,mysql,php)](https://skillicons.dev)
 
 ### DevOps
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 <hr>
 
